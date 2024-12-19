@@ -4987,3 +4987,9 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2024.12.19-11.55.35:301][179]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
 [2024.12.19-11.55.35:428][179]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
 [2024.12.19-11.55.35:428][179]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B20AF2397-415D-571F-BAE4-94A8B17FF595%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.4.4-35576357%2B%2B%2BUE5%2BRelease-5.4&UserID=a347cfc245cd62ff765fff9ef668122d%7C66ced7e133ed47bf96f85a9d8788f864%7C9b05b0e0-b007-45a1-991e-65ab97f1c10c&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2024.12.19-11.55.36:145][179]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2024.12.19-11.55.36:259][179]LogXGEController: Cleaning working directory: C:/Users/micha/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2024.12.19-11.55.36:424][179]LogPakFile: Destroying PakPlatformFile
+[2024.12.19-11.55.36:781][179]LogD3D12RHI: ~FD3D12DynamicRHI
+[2024.12.19-11.55.36:833][179]LogExit: Exiting.
+[2024.12.19-11.55.36:854][179]Log file closed, 12/19/24 12:55:36
