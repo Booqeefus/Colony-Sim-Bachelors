@@ -160,6 +160,8 @@
 				"C:/Users/micha/Desktop/SCHOOL/UNIVERZITA/3 rok/bachelors/Colony-Sim-Bachelors/Famine/Content/NewMap.umap",
 				"C:/Users/micha/Desktop/SCHOOL/UNIVERZITA/3 rok/bachelors/Colony-Sim-Bachelors/Famine/Content/BlueprintClasses/Colonists/Colonist.uasset",
 				"C:/Users/micha/Desktop/SCHOOL/UNIVERZITA/3 rok/bachelors/Colony-Sim-Bachelors/Famine/Content/BlueprintClasses/Colonists/ColonistController.uasset",
+				"C:/Users/micha/Desktop/SCHOOL/UNIVERZITA/3 rok/bachelors/Colony-Sim-Bachelors/Famine/Content/BlueprintClasses/Colonists/ColonistBehaviorTree.uasset",
+				"C:/Users/micha/Desktop/SCHOOL/UNIVERZITA/3 rok/bachelors/Colony-Sim-Bachelors/Famine/Content/BlueprintClasses/Colonists/ColonistBlackboard.uasset",
 				"C:/Users/micha/Desktop/SCHOOL/UNIVERZITA/3 rok/bachelors/Colony-Sim-Bachelors/Famine/Content/BlueprintClasses/Player/BPOverseer.uasset",
 				"C:/Users/micha/Desktop/SCHOOL/UNIVERZITA/3 rok/bachelors/Colony-Sim-Bachelors/Famine/Content/BlueprintClasses/Buildings/GridTile.uasset",
 				"C:/Users/micha/Desktop/SCHOOL/UNIVERZITA/3 rok/bachelors/Colony-Sim-Bachelors/Famine/Content/BlueprintClasses/Controllers/BPOverseerController.uasset",

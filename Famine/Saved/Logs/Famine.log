@@ -2253,3 +2253,106 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2025.01.14-10.36.16:010][171]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3216.471924
 [2025.01.14-10.36.17:012][174]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.01.14-10.36.17:012][174]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3217.138672, Update Interval: 338.889130
+[2025.01.14-10.40.15:236][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.01.14-10.40.16:869][ 54]LogSlate: Window 'Save Content' being destroyed
+[2025.01.14-10.40.16:915][ 54]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.14-10.40.17:013][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.01.14-10.40.17:018][ 54]LogSavePackage: Moving output files for package: /Game/Levels/LVBase
+[2025.01.14-10.40.17:019][ 54]LogSavePackage: Moving 'C:/Users/micha/Desktop/SCHOOL/UNIVERZITA/3 rok/bachelors/Colony-Sim-Bachelors/Famine/Saved/LVBase710B865A410A22634B180CBB7B1AC6E9.tmp' to 'C:/Users/micha/Desktop/SCHOOL/UNIVERZITA/3 rok/bachelors/Colony-Sim-Bachelors/Famine/Content/Levels/LVBase.umap'
+[2025.01.14-10.40.17:024][ 54]LogFileHelpers: Saving map 'LVBase' took 0.047
+[2025.01.14-10.40.17:025][ 54]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BlueprintClasses/Colonists/Colonist] ([2] browsable assets)...
+[2025.01.14-10.40.17:025][ 54]OBJ SavePackage: Finished generating thumbnails for package [/Game/BlueprintClasses/Colonists/Colonist]
+[2025.01.14-10.40.17:026][ 54]LogSavePackage: Moving output files for package: /Game/BlueprintClasses/Colonists/Colonist
+[2025.01.14-10.40.17:026][ 54]LogSavePackage: Moving 'C:/Users/micha/Desktop/SCHOOL/UNIVERZITA/3 rok/bachelors/Colony-Sim-Bachelors/Famine/Saved/ColonistCB10654643729287767FC5AB0BBB9294.tmp' to 'C:/Users/micha/Desktop/SCHOOL/UNIVERZITA/3 rok/bachelors/Colony-Sim-Bachelors/Famine/Content/BlueprintClasses/Colonists/Colonist.uasset'
+[2025.01.14-10.40.17:042][ 54]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BlueprintClasses/Colonists/ColonistBehaviorTree] ([1] browsable assets)...
+[2025.01.14-10.40.17:042][ 54]OBJ SavePackage: Finished generating thumbnails for package [/Game/BlueprintClasses/Colonists/ColonistBehaviorTree]
+[2025.01.14-10.40.17:048][ 54]LogSavePackage: Moving output files for package: /Game/BlueprintClasses/Colonists/ColonistBehaviorTree
+[2025.01.14-10.40.17:048][ 54]LogSavePackage: Moving 'C:/Users/micha/Desktop/SCHOOL/UNIVERZITA/3 rok/bachelors/Colony-Sim-Bachelors/Famine/Saved/ColonistBehaviorTree9BEBD2194EC5AD2CBDADFB88C8014A02.tmp' to 'C:/Users/micha/Desktop/SCHOOL/UNIVERZITA/3 rok/bachelors/Colony-Sim-Bachelors/Famine/Content/BlueprintClasses/Colonists/ColonistBehaviorTree.uasset'
+[2025.01.14-10.40.17:050][ 54]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BlueprintClasses/Colonists/ColonistBlackboard] ([1] browsable assets)...
+[2025.01.14-10.40.17:050][ 54]OBJ SavePackage: Finished generating thumbnails for package [/Game/BlueprintClasses/Colonists/ColonistBlackboard]
+[2025.01.14-10.40.17:052][ 54]LogSavePackage: Moving output files for package: /Game/BlueprintClasses/Colonists/ColonistBlackboard
+[2025.01.14-10.40.17:052][ 54]LogSavePackage: Moving 'C:/Users/micha/Desktop/SCHOOL/UNIVERZITA/3 rok/bachelors/Colony-Sim-Bachelors/Famine/Saved/ColonistBlackboard46CEA6BD43FFA79A1CA375A3A358D4CB.tmp' to 'C:/Users/micha/Desktop/SCHOOL/UNIVERZITA/3 rok/bachelors/Colony-Sim-Bachelors/Famine/Content/BlueprintClasses/Colonists/ColonistBlackboard.uasset'
+[2025.01.14-10.40.17:064][ 54]LogFileHelpers: InternalPromptForCheckoutAndSave took 149.108 ms (total: 3.20 sec)
+[2025.01.14-10.40.17:118][ 54]LogStall: Shutdown...
+[2025.01.14-10.40.17:121][ 54]LogStall: Shutdown complete.
+[2025.01.14-10.40.17:160][ 54]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.01.14-10.40.17:160][ 54]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.01.14-10.40.17:160][ 54]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.14-10.40.17:197][ 54]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.01.14-10.40.17:197][ 54]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.01.14-10.40.17:197][ 54]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.14-10.40.17:365][ 54]LogSlate: Window 'Famine - Unreal Editor' being destroyed
+[2025.01.14-10.40.18:704][ 54]LogContentValidation: Display: Starting to validate 4 assets
+[2025.01.14-10.40.18:704][ 54]LogContentValidation: Enabled validators:
+[2025.01.14-10.40.18:704][ 54]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.14-10.40.18:704][ 54]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.14-10.40.18:704][ 54]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.14-10.40.18:704][ 54]LogContentValidation: Display: Validating asset /Game/Levels/LVBase.LVBase
+[2025.01.14-10.40.18:704][ 54]AssetCheck: /Game/Levels/LVBase Validating asset
+[2025.01.14-10.40.18:704][ 54]LogContentValidation: Display: Validating asset /Game/BlueprintClasses/Colonists/Colonist.Colonist
+[2025.01.14-10.40.18:704][ 54]AssetCheck: /Game/BlueprintClasses/Colonists/Colonist Validating asset
+[2025.01.14-10.40.18:704][ 54]LogContentValidation: Display: Validating asset /Game/BlueprintClasses/Colonists/ColonistBehaviorTree.ColonistBehaviorTree
+[2025.01.14-10.40.18:704][ 54]AssetCheck: /Game/BlueprintClasses/Colonists/ColonistBehaviorTree Validating asset
+[2025.01.14-10.40.18:705][ 54]LogContentValidation: Display: Validating asset /Game/BlueprintClasses/Colonists/ColonistBlackboard.ColonistBlackboard
+[2025.01.14-10.40.18:705][ 54]AssetCheck: /Game/BlueprintClasses/Colonists/ColonistBlackboard Validating asset
+[2025.01.14-10.40.18:723][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.01.14-10.40.18:746][ 54]Cmd: QUIT_EDITOR
+[2025.01.14-10.40.18:757][ 54]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.01.14-10.40.18:858][ 55]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.01.14-10.40.18:884][ 55]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.01.14-10.40.18:916][ 55]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.01.14-10.40.19:024][ 55]LogWorld: UWorld::CleanupWorld for LVBase, bSessionEnded=true, bCleanupResources=true
+[2025.01.14-10.40.19:038][ 55]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.14-10.40.19:038][ 55]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.01.14-10.40.19:038][ 55]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.01.14-10.40.19:536][ 55]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.01.14-10.40.19:823][ 55]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.01.14-10.40.19:823][ 55]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.14-10.40.19:825][ 55]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.01.14-10.40.19:825][ 55]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.14-10.40.19:846][ 55]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.01.14-10.40.19:846][ 55]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.14-10.40.19:848][ 55]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.01.14-10.40.19:848][ 55]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.14-10.40.20:179][ 55]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.01.14-10.40.20:382][ 55]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2025.01.14-10.40.20:382][ 55]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2025.01.14-10.40.20:382][ 55]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2025.01.14-10.40.21:545][ 55]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.01.14-10.40.21:545][ 55]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.01.14-10.40.21:545][ 55]LogAudio: Display: Audio Device unregistered from world 'LVBase'.
+[2025.01.14-10.40.21:545][ 55]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.01.14-10.40.21:545][ 55]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.01.14-10.40.21:546][ 55]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.01.14-10.40.21:628][ 55]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.01.14-10.40.21:628][ 55]LogAudio: Display: Audio Device Manager Shutdown
+[2025.01.14-10.40.21:628][ 55]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2025.01.14-10.40.21:703][ 55]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.01.14-10.40.21:732][ 55]LogExit: Preparing to exit.
+[2025.01.14-10.40.22:350][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.01.14-10.40.22:352][ 55]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.14-10.40.22:377][ 55]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.14-10.40.22:398][ 55]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.14-10.40.22:399][ 55]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.14-10.40.22:399][ 55]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.14-10.40.22:399][ 55]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.14-10.40.22:399][ 55]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.14-10.40.22:399][ 55]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.14-10.40.22:399][ 55]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.14-10.40.22:399][ 55]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.14-10.40.22:399][ 55]LogPython: Display: Object '/Engine/PythonTypes.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.14-10.40.22:399][ 55]LogPython: Display: Object '/Engine/PythonTypes.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.14-10.40.22:401][ 55]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.14-10.40.22:401][ 55]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.14-10.40.22:401][ 55]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.14-10.40.22:401][ 55]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.14-10.40.22:401][ 55]LogPython: Display: Object '/Engine/PythonTypes.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.14-10.40.22:401][ 55]LogPython: Display: Object '/Engine/PythonTypes.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.14-10.40.22:401][ 55]LogPython: Display: Object '/Engine/PythonTypes.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.14-10.40.22:402][ 55]LogPython: Display: Object '/Engine/PythonTypes.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.14-10.40.22:402][ 55]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.01.14-10.40.25:041][ 55]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.01.14-10.40.26:524][ 55]LogExit: Editor shut down
+[2025.01.14-10.40.26:537][ 55]LogExit: Transaction tracking system shut down
+[2025.01.14-10.40.32:860][ 55]LogExit: Object subsystem successfully closed.
+[2025.01.14-10.40.32:948][ 55]LogShaderCompilers: Display: Shaders left to compile 0
