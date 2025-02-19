@@ -1,0 +1,5 @@
+WEEK 17.2. - 23.2. :
+	19.2. :
+	 Kolonista prejde k cielu, no nezaregistruje uspesne, nasledovne tasky sa nevykonaju.  Unrealovska Dokumentacia nadalej mizerna. 
+	 Zrusil som Custom Move Task, musim lepsie zistit ako funguje move to v unreale, kedze dokumentacia je taka aka je.
+	 UPDATE : Uprava velkosti koliznej kapsuly umoznuje uspesne dokoncenie. Evidentne otazku "Som na Mieste Kde Mam Byt?" riesi ako otazku kolizii proti nejakej vymyslenej gule, as opposed to matematicke riesenie.
