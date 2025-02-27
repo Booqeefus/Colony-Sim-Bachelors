@@ -2,9 +2,16 @@ WEEK 17.2. - 23.2. :
 	
 	 Kolonista prejde k cielu, no nezaregistruje uspesne, nasledovne tasky sa nevykonaju.  Unrealovska Dokumentacia nadalej mizerna. 
 	 Zrusil som Custom Move Task, musim lepsie zistit ako funguje move to v unreale, kedze dokumentacia je taka aka je.
-	 UPDATE : Uprava velkosti koliznej kapsuly umoznuje uspesne dokoncenie. Evidentne otazku "Som na Mieste Kde Mam Byt?" riesi ako otazku kolizii proti nejakej vymyslenej gule, as opposed to matematicke riesenie.
+	 UPDATE : Uprava velkosti koliznej kapsuly umoznuje uspesne dokoncenie. Evidentne otazku "Som na Mieste Kde Mam Byt?" riesi ako otazku kolizii proti nejakej vymyslenej gule, as opposed to matematicke riesenie. (3.5H)
+
 
 WEEK 24.2. - 2.3. :
-	Po dorazeni do ciela kolonisti prispievaju ku splneniu ulohy, konstanty su predmetom ladenia stylom "what feels best" dalsia praca je pridavanie odmien za splenene ulohy a idle task pre kolonistov co nemaju co so sebou
-	MILESTONE : PRVA ULOHA SPLNENA
+	Po dorazeni do ciela kolonisti prispievaju ku splneniu ulohy, konstanty su predmetom ladenia stylom "what feels best" dalsia praca je pridavanie odmien za splenene ulohy a idle task pre kolonistov co nemaju co so sebou (2H)
+	MILESTONE : PRVA ULOHA SPLNENA 
+
+	Vo funkcii v ktorej si kolonisti vyberaju ulohy musim implementovat triedenia a filtre.
+	Triedenie 1 : Priorita Kolonistu na danu ulohu.
+	Filter 1 : Odstranit Vsetky ulohy okrem tych s najvyssiou prioritou
+
+	(2H)
 
