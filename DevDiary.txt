@@ -15,3 +15,5 @@ WEEK 24.2. - 2.3. :
 
 	(2H)
 
+WEEK 3.3 - 10.3 :
+	Prve triedenie implementovane,pri implementacii druheho filtra som zistil ze unreal nepodporuje descending for loop (komu jebe?). Pozeral som sa na LE Extended library ktora by mala tuto funkcionalitu  vraj aj triedenie odla ambdy ale je pre nu potrebny UE 4 c++ projekt.
