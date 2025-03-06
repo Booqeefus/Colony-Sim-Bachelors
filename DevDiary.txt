@@ -1,0 +1,20 @@
+WEEK 17.2. - 23.2. :
+	
+	 Kolonista prejde k cielu, no nezaregistruje uspesne, nasledovne tasky sa nevykonaju.  Unrealovska Dokumentacia nadalej mizerna. 
+	 Zrusil som Custom Move Task, musim lepsie zistit ako funguje move to v unreale, kedze dokumentacia je taka aka je.
+	 UPDATE : Uprava velkosti koliznej kapsuly umoznuje uspesne dokoncenie. Evidentne otazku "Som na Mieste Kde Mam Byt?" riesi ako otazku kolizii proti nejakej vymyslenej gule, as opposed to matematicke riesenie. (3.5H)
+
+
+WEEK 24.2. - 2.3. :
+	Po dorazeni do ciela kolonisti prispievaju ku splneniu ulohy, konstanty su predmetom ladenia stylom "what feels best" dalsia praca je pridavanie odmien za splenene ulohy a idle task pre kolonistov co nemaju co so sebou (2H)
+	MILESTONE : PRVA ULOHA SPLNENA 
+
+	Vo funkcii v ktorej si kolonisti vyberaju ulohy musim implementovat triedenia a filtre.
+	Triedenie 1 : Priorita Kolonistu na danu ulohu.
+	Filter 1 : Odstranit Vsetky ulohy okrem tych s najvyssiou prioritou
+
+	(2H)
+
+WEEK 3.3 - 10.3 :
+	Prve triedenie implementovane,pri implementacii druheho filtra som zistil ze unreal nepodporuje descending for loop (why?). Pozeral som sa na LE Extended library ktora by mala tuto funkcionalitu  vraj aj triedenie podla lambdy ale je pre nu potrebny UE 4 c++ projekt. Implementoval som vlastny descending loop, akoze fakt uz. PRVY FILTER HOTOVY. Implementujem sort podla priority ulohy, duplicity kodu galore, ale god forbid ze by som chcel lambda funkcie xdd. Vsetky zoradenia a filtre uz asi funguju, idem spravit wandering task ked nevedia co so sebou. ISSUE : Po splneni ulohy sa kolonisti zaseknu, fix pending. FIX DONE BAYBEE 
+Pridal som task na motkanie sa okolo ked nevedia co so sebou, nemaju co robit. Teraz idem robit GUI
