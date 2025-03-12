@@ -21,4 +21,5 @@ Pridal som task na motkanie sa okolo ked nevedia co so sebou, nemaju co robit. T
 
 WEEK 11.3 - 18.3 :
 	(11.3) Resource Counters uz funguju, day cycle tbd. Day Cycle WIP
-	(12.3) Ukazovatel na time of day funguje, graficke adjustments tbd, vyzera trosku fucky ale by and large je to oke doke. Next Up People Counter a potom forest tile na kacanie dreva. Pridal som "Moria Citadel Font", free na komercne vyuzitie, credit v associated readme.
+	(12.3) Ukazovatel na time of day funguje, graficke adjustments tbd, vyzera trosku fucky ale by and large je to oke doke. Next Up People Counter a potom forest tile na kacanie dreva. Pridal som "Moria Citadel Font", free na komercne vyuzitie, credit v associated readme. what is the point of this work
+tens of hours wasted doing a stupid game
