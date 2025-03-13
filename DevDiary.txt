@@ -23,4 +23,4 @@ WEEK 11.3 - 18.3 :
 	(11.3) Resource Counters uz funguju, day cycle tbd. Day Cycle WIP
 	(12.3) Ukazovatel na time of day funguje, graficke adjustments tbd, vyzera trosku fucky ale by and large je to oke doke. Next Up People Counter a potom forest tile na kacanie dreva. Pridal som "Moria Citadel Font", free na komercne vyuzitie, credit v associated readme. what is the point of this work
 tens of hours wasted doing a stupid game 
-	(13.3) Pridal som Pocitadlo zobrazujuce aktualny pocet kolonistov.
+	(13.3) Pridal som Pocitadlo zobrazujuce aktualny pocet kolonistov. Urobil som vizualnu stranku lesa a farmy. Nove problemy pri pathfindingu kolonistov, zasekavaju sa o geometriu budov, asi treba dat nav mesh boundy na ne nech sa cez ne Ai nepokusa pathovat
