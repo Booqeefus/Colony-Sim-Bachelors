@@ -19,7 +19,7 @@ WEEK 3.3 - 10.3 :
 	Prve triedenie implementovane,pri implementacii druheho filtra som zistil ze unreal nepodporuje descending for loop (why?). Pozeral som sa na LE Extended library ktora by mala tuto funkcionalitu  vraj aj triedenie podla lambdy ale je pre nu potrebny UE 4 c++ projekt. Implementoval som vlastny descending loop, akoze fakt uz. PRVY FILTER HOTOVY. Implementujem sort podla priority ulohy, duplicity kodu galore, ale god forbid ze by som chcel lambda funkcie xdd. Vsetky zoradenia a filtre uz asi funguju, idem spravit wandering task ked nevedia co so sebou. ISSUE : Po splneni ulohy sa kolonisti zaseknu, fix pending. FIX DONE BAYBEE 
 Pridal som task na motkanie sa okolo ked nevedia co so sebou, nemaju co robit. Teraz idem robit GUI
 
-WEEK 11.3 - 18.3 :
+WEEK 11.3 - 16.3 :
 	(11.3) Resource Counters uz funguju, day cycle tbd. Day Cycle WIP
 	(12.3) Ukazovatel na time of day funguje, graficke adjustments tbd, vyzera trosku fucky ale by and large je to oke doke. Next Up People Counter a potom forest tile na kacanie dreva. Pridal som "Moria Citadel Font", free na komercne vyuzitie, credit v associated readme. what is the point of this work
 tens of hours wasted doing a stupid game 
@@ -27,3 +27,8 @@ tens of hours wasted doing a stupid game
 
 	(14.3) Napad pre refactoring : spravit novu podtriedu BuildingSuperclass = Resource Node a od nej oddedit forest a rock deposit. Dokoncena velka studna, dokonceny summoning circle (vizualy). Treba este construction site a storage yard a smelter. Vizualy construction site + particles na summoning circle done. Storage yard a refinery todo.
 	(15.3) Navigacia sa rozbila lebo budovy su prilis male. Po 8-nasobnom zvacseni sa navigacia sprava podla ocakavani, ale kolonisti sa prestali hybat. Fix wip. Fix done, changed some numbers zrazu veci funguju. Plus hotovy dizajn storage yard a workshop.
+
+
+WEEK 17.3 - 23.3 : 
+	(18.3) Pridana funkcionalita pre skladiskovu budovu.
+	
