@@ -31,4 +31,5 @@ tens of hours wasted doing a stupid game
 
 WEEK 17.3 - 23.3 : 
 	(18.3) Pridana funkcionalita pre skladiskovu budovu.
+	(19.3) Pridane progress bary pre vykonavane ulohy. Bol potrebny vytvorit novy subclass UserWidget, don dat canvas a progress bar, a tento umiestnit to userwidget component v building superclass actor blueprinte. Su pridane vo world space, lebo sa mi to tak pacilo viac. Boli problem s renderovanim (NEVIEM PRECO MAM AUTOCORRECT V NOTEPADE), ukazuje sa ze ak sa canvas resolution nezhoduje so playtime screen resolution tak to veci jednoducho nevykresli. Trocha browsovania po forach a problem bol vyrieseny. NAPAD : Po kazdom vytazeni kamenov alebo stromov cca 1/3 z nich zmizne.
 	
