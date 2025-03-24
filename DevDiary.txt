@@ -35,3 +35,6 @@ WEEK 17.3 - 23.3 :
 	(20.3) Progress bary once again broken, ale construction site construction siteuje. Refactoring build menu na separe widget class + uprava modelu velkej studne, lebo po dostavani sa zasekli v studni a bolo to lahsie ako opravovat navigaciu. Nova textura zeme a uprava svetla davaju cozier look.
 	(21.3) Extensive Bugfixing, errandy, refactoring na urovni building superclass aby post errand a update errand bolo robene v nadtriede. Errandy po novom vedia vynutit svoje odstranenie z poolu aktivnych. + movement speed kolonistov. Treba nejako vyriesit problem so stavanim, pretoze kolonisti sa radi zaseknu v novopostavenych budovach.
 
+
+WEEK 24.3 - 31.3:
+(24.3) Pridany text (X%) kde x je progress k progress barom.Pridane pauzovanie hry.
