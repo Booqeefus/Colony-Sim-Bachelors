@@ -39,5 +39,7 @@ WEEK 17.3 - 23.3 :
 WEEK 24.3 - 31.3:
 (24.3) Pridany text (X%) kde x je progress k progress barom.Pridane pauzovanie hry. Casovac a mozno ine veci sa nepauznu.
 (25.3) Pridana tabulka a struktura pre ceny budov. Nazvy riadkov su 1:1 k display names classov budov, takze scaleability by mal byt oki ak je toto pravidlo dodrzane a acknowledged. Zcal som robit na dynamickom refreshovani textov price buttonov. Text price buttonov je teraz generovany dynamicky na zaklade BuildingCostDataTable
+(26.3) Budovy zoberu svoju cenu prec z resourceov ked su buildovane a vratia ju naspat onDestroy.
+
 
 
