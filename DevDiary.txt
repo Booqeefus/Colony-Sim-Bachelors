@@ -43,7 +43,7 @@ WEEK 24.3 - 31.3:
 (27.3) Superclass pre building onclick popup done, building specific subclassy to follow. Este treba implementovat demolish button na urovni superclassy a zabezpecit ze sa nevykresluje ked netreba
 (28.3) Demolish Button implementovany, budovy refunduju svoju cenu. Subclass approach fajn z hladiska pridavania ale extra funkcionalita blbne. Treba pouzit named slot.
  Pri dizajnovani widgetov je dobre nadizajnovat to pre velkost aku chcete, nech nerobi scaling blbosti. Pridal som ps1 style shader aby som zakryl graficke nedokonalosti. farma uz je 100% funkcna, including popup window a ovladanie.
- (29.3) Popup pre forest patch a storage yard funkcne, stromy schovaju 1/3 po harveste in progress
+ (29.3) Popup pre forest patch a storage yard funkcne, stromy schovaju 1/3 po harveste in progress. Rock deposit ditto + komplet rework lebo teraz uz trochu viem co robim. Well Functionality hotova.
 
 
 
