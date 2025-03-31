@@ -45,6 +45,9 @@ WEEK 24.3 - 31.3:
  Pri dizajnovani widgetov je dobre nadizajnovat to pre velkost aku chcete, nech nerobi scaling blbosti. Pridal som ps1 style shader aby som zakryl graficke nedokonalosti. farma uz je 100% funkcna, including popup window a ovladanie.
  (29.3) Popup pre forest patch a storage yard funkcne, stromy schovaju 1/3 po harveste in progress. Rock deposit ditto + komplet rework lebo teraz uz trochu viem co robim. Well Functionality hotova.
 
+WEEK 31.3-6.4
+(31.3) Refactorol som celu vec. Resource names a errand types su po novom enumy as opposed to names. Tj input kontrola a vsetko co s tym suviselo je done a veci sa zdaju byt working as intended. Done in 80 mins.
+
 
 
 
