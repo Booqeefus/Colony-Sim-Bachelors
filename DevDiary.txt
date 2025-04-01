@@ -47,6 +47,7 @@ WEEK 24.3 - 31.3:
 
 WEEK 31.3-6.4
 (31.3) Refactorol som celu vec. Resource names a errand types su po novom enumy as opposed to names. Tj input kontrola a vsetko co s tym suviselo je done a veci sa zdaju byt working as intended. Done in 80 mins.
+(1.4) Build menu sa po novom zavre ked je zvolena budova. Do onclick okien budov som pridal priority slider ktory umoznuje nastavit prioritu (1-10) budovy.Added a silly little mp as the colonist mesh
 
 
 
