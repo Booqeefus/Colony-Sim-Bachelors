@@ -48,7 +48,8 @@ WEEK 24.3 - 31.3:
 WEEK 31.3-6.4
 (31.3) Refactorol som celu vec. Resource names a errand types su po novom enumy as opposed to names. Tj input kontrola a vsetko co s tym suviselo je done a veci sa zdaju byt working as intended. Done in 80 mins.
 (1.4) Build menu sa po novom zavre ked je zvolena budova. Do onclick okien budov som pridal priority slider ktory umoznuje nastavit prioritu (1-10) budovy.Added a silly little mp as the colonist mesh
-(3.4) Workshop Building Done, recept vybrany z drop downu, spinbox pre pocet opakovani. Dlzka craftenia zalezi od poctu "objednavok". Objednavky sa daju zrustit co refunduje ich cenu. Pokial je budova zburana pocas craftenia akekolvek prebiehajuce objednavky su zrusene.
+(3.4) Workshop Building Done, recept vybrany z drop downu, spinbox pre pocet opakovani. Dlzka craftenia zalezi od poctu "objednavok". Objednavky sa daju zrustit co refunduje ich cenu. Pokial je budova zburana pocas craftenia akekolvek prebiehajuce objednavky su zrusene. Yacala sa praca na summoning circle popupe, potrebne predtym urobit colonist popup.
+(4.4) Posledna budova summoning circle dokoncena. Pre jej dokoncenie bolo potrebne najskor dokoncit colonist onclick popup, ktore zobrazuje zdravie, hlad a energiu kolonistu, ako aj jeho skilly cez bindingy. Summoning Circle Ma viacero metod na generovanie nahodnych kolonistov, po vygenerovani su umiestneny pod mapu a su deaktivovany (tick + AI). Po vybrati kolonistu sa dany kolonista presunie na povrch a aktivuje sa. Prislo mi to ako celkom fajn riesenie. Staty kolonistov sa daju prehliadat mouse over na tlacidlo. Zatial je moznych iba par mien, chcel som importovat csv ale unreal strajkoval, takze som manualne napisal 5.
 
 
 
