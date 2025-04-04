@@ -32,4 +32,26 @@ tens of hours wasted doing a stupid game
 WEEK 17.3 - 23.3 : 
 	(18.3) Pridana funkcionalita pre skladiskovu budovu.
 	(19.3) Pridane progress bary pre vykonavane ulohy. Bol potrebny vytvorit novy subclass UserWidget, don dat canvas a progress bar, a tento umiestnit to userwidget component v building superclass actor blueprinte. Su pridane vo world space, lebo sa mi to tak pacilo viac. Boli problem s renderovanim (NEVIEM PRECO MAM AUTOCORRECT V NOTEPADE), ukazuje sa ze ak sa canvas resolution nezhoduje so playtime screen resolution tak to veci jednoducho nevykresli. Trocha browsovania po forach a problem bol vyrieseny. NAPAD : Po kazdom vytazeni kamenov alebo stromov cca 1/3 z nich zmizne.
-	
+	(20.3) Progress bary once again broken, ale construction site construction siteuje. Refactoring build menu na separe widget class + uprava modelu velkej studne, lebo po dostavani sa zasekli v studni a bolo to lahsie ako opravovat navigaciu. Nova textura zeme a uprava svetla davaju cozier look.
+	(21.3) Extensive Bugfixing, errandy, refactoring na urovni building superclass aby post errand a update errand bolo robene v nadtriede. Errandy po novom vedia vynutit svoje odstranenie z poolu aktivnych. + movement speed kolonistov. Treba nejako vyriesit problem so stavanim, pretoze kolonisti sa radi zaseknu v novopostavenych budovach.
+
+
+WEEK 24.3 - 31.3:
+(24.3) Pridany text (X%) kde x je progress k progress barom.Pridane pauzovanie hry. Casovac a mozno ine veci sa nepauznu.
+(25.3) Pridana tabulka a struktura pre ceny budov. Nazvy riadkov su 1:1 k display names classov budov, takze scaleability by mal byt oki ak je toto pravidlo dodrzane a acknowledged. Zcal som robit na dynamickom refreshovani textov price buttonov. Text price buttonov je teraz generovany dynamicky na zaklade BuildingCostDataTable
+(26.3) Budovy zoberu svoju cenu prec z resourceov ked su buildovane a vratia ju naspat onDestroy.
+(27.3) Superclass pre building onclick popup done, building specific subclassy to follow. Este treba implementovat demolish button na urovni superclassy a zabezpecit ze sa nevykresluje ked netreba
+(28.3) Demolish Button implementovany, budovy refunduju svoju cenu. Subclass approach fajn z hladiska pridavania ale extra funkcionalita blbne. Treba pouzit named slot.
+ Pri dizajnovani widgetov je dobre nadizajnovat to pre velkost aku chcete, nech nerobi scaling blbosti. Pridal som ps1 style shader aby som zakryl graficke nedokonalosti. farma uz je 100% funkcna, including popup window a ovladanie.
+ (29.3) Popup pre forest patch a storage yard funkcne, stromy schovaju 1/3 po harveste in progress. Rock deposit ditto + komplet rework lebo teraz uz trochu viem co robim. Well Functionality hotova.
+
+WEEK 31.3-6.4
+(31.3) Refactorol som celu vec. Resource names a errand types su po novom enumy as opposed to names. Tj input kontrola a vsetko co s tym suviselo je done a veci sa zdaju byt working as intended. Done in 80 mins.
+(1.4) Build menu sa po novom zavre ked je zvolena budova. Do onclick okien budov som pridal priority slider ktory umoznuje nastavit prioritu (1-10) budovy.Added a silly little mp as the colonist mesh
+(3.4) Workshop Building Done, recept vybrany z drop downu, spinbox pre pocet opakovani. Dlzka craftenia zalezi od poctu "objednavok". Objednavky sa daju zrustit co refunduje ich cenu. Pokial je budova zburana pocas craftenia akekolvek prebiehajuce objednavky su zrusene. Yacala sa praca na summoning circle popupe, potrebne predtym urobit colonist popup.
+(4.4) Posledna budova summoning circle dokoncena. Pre jej dokoncenie bolo potrebne najskor dokoncit colonist onclick popup, ktore zobrazuje zdravie, hlad a energiu kolonistu, ako aj jeho skilly cez bindingy. Summoning Circle Ma viacero metod na generovanie nahodnych kolonistov, po vygenerovani su umiestneny pod mapu a su deaktivovany (tick + AI). Po vybrati kolonistu sa dany kolonista presunie na povrch a aktivuje sa. Prislo mi to ako celkom fajn riesenie. Staty kolonistov sa daju prehliadat mouse over na tlacidlo. Zatial je moznych iba par mien, chcel som importovat csv ale unreal strajkoval, takze som manualne napisal 5.
+
+
+
+
+
