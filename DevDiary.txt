@@ -53,6 +53,9 @@ WEEK 31.3-6.4
 (5.4) Zacal som pripravovat priority menu, robene ako parent window v ktorom su v scroll boxe itemy jednotlivych kolonistov. Klikanim na gombiky je mozne cyklicky prepinat medzi 6 urovnami priority.
 (6.4) Priority window hotove, pridane tlacidlo na klikanie ako aj klavesova skratka "P" pre otvorenie/ zatvorenie priority window.
 
+WEEK 7.4-13.4
+(9.4) Zmensil som velkosti klikacich hitboxov na budovach a kolonistoch, klikanie na spominane veci je teraz responzivnejsie a menej frustrujuce.
+
 
 
 
