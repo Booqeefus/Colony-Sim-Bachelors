@@ -6,7 +6,6 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/micha/Desktop/SCHOOL/UNIVERZITA/3_rok/bachelors/Colony-Sim-Bachelors/Famine/Content/BlueprintClasses/Player/DayCounterWidget.uasset",
-				"C:/Users/micha/Desktop/SCHOOL/UNIVERZITA/3_rok/bachelors/Colony-Sim-Bachelors/Famine/Content/BlueprintClasses/Player/OverseerHUD.uasset",
 				"C:/Users/micha/Desktop/SCHOOL/UNIVERZITA/3_rok/bachelors/Colony-Sim-Bachelors/Famine/Content/BlueprintClasses/GameInstance/FamineGameInstance.uasset",
 				"C:/Users/micha/Desktop/SCHOOL/UNIVERZITA/3_rok/bachelors/Colony-Sim-Bachelors/Famine/Content/Levels/LVBase.umap",
 				"C:/Users/micha/Desktop/SCHOOL/UNIVERZITA/3_rok/bachelors/Colony-Sim-Bachelors/Famine/Content/Assets/3rdPartyAssets/moria-citadel/mc_samp.uasset",
@@ -205,6 +204,8 @@
 				"C:/Users/micha/Desktop/SCHOOL/UNIVERZITA/3_rok/bachelors/Colony-Sim-Bachelors/Famine/Content/BlueprintClasses/Player/UI/PriorityWindow/PriorityListItem.uasset",
 				"C:/Users/micha/Desktop/SCHOOL/UNIVERZITA/3_rok/bachelors/Colony-Sim-Bachelors/Famine/Content/BlueprintClasses/Player/UI/PriorityWindow/PriorityWindow.uasset",
 				"C:/Users/micha/Desktop/SCHOOL/UNIVERZITA/3_rok/bachelors/Colony-Sim-Bachelors/Famine/Content/BlueprintClasses/Player/UI/PriorityWindow/PriorityLevelsText.uasset",
+				"C:/Users/micha/Desktop/SCHOOL/UNIVERZITA/3_rok/bachelors/Colony-Sim-Bachelors/Famine/Content/BlueprintClasses/Colonists/AITasks/WanderAround.uasset",
+				"C:/Users/micha/Desktop/SCHOOL/UNIVERZITA/3_rok/bachelors/Colony-Sim-Bachelors/Famine/Content/BlueprintClasses/Player/OverseerHUD.uasset",
 				"C:/Users/micha/Desktop/SCHOOL/UNIVERZITA/3_rok/bachelors/Colony-Sim-Bachelors/Famine/Content/BlueprintClasses/Colonists/ColonistNames/ColonistNames.uasset",
 				"C:/Users/micha/Desktop/SCHOOL/UNIVERZITA/3_rok/bachelors/Colony-Sim-Bachelors/Famine/Content/BlueprintClasses/Colonists/ColonistNames/goblin_names.uasset",
 				"C:/Users/micha/Desktop/SCHOOL/UNIVERZITA/3_rok/bachelors/Colony-Sim-Bachelors/Famine/Content/BlueprintClasses/Colonists/ColonistNames/GoblinNamesDataTable.uasset",
