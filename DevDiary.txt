@@ -55,6 +55,8 @@ WEEK 31.3-6.4
 
 WEEK 7.4-13.4
 (9.4) Zmensil som velkosti klikacich hitboxov na budovach a zvacsil ich na kolonistoch, klikanie na spominane veci je teraz responzivnejsie a menej frustrujuce. Pridal som neviditelne steny aby som obmedzil vertikalny pohyb hraca. Urobil New game start, tj vygenerovanie resource budov, spawnnutie 3 postav. Dalej uz nieje mozne umiestnit overlapujuce budovy.
+(10.4) NOTE : Refactorovat pocitadla surovin na binding, radsej ako manualne refreshe (performance vs elegance). Pridal som ColonistSaveStructure a BuildingSaveStructure. Respektivne classy vedia vygenerovat instanciu pre seba samu, savefile class uchovava okrem ineho dve polia takychto structov, jedno pre kolonistov druhe pre budovy. Save a load budu v game instance, s tym ze level bude loadovat a umiestnovat postavy a budovy a controller vie vyvolat save. Save game funkcia hotova(? needs to be tested) load to follow. Save and load zdanlivo funguju, testovane len povrchovo. Aktivacia kolonistov je delayed po nacitani zvysku levela kedze to nestihalo (colonist nebol plne nainicializovany). Forest a rock uz sa daju vytazit len 1 krat. Day counter po novom funguje as expected. Main menu to follow.
+
 
 
 
