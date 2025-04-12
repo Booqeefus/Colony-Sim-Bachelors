@@ -58,9 +58,7 @@ WEEK 7.4-13.4
 (10.4) NOTE : Refactorovat pocitadla surovin na binding, radsej ako manualne refreshe (performance vs elegance). Pridal som ColonistSaveStructure a BuildingSaveStructure. Respektivne classy vedia vygenerovat instanciu pre seba samu, savefile class uchovava okrem ineho dve polia takychto structov, jedno pre kolonistov druhe pre budovy. Save a load budu v game instance, s tym ze level bude loadovat a umiestnovat postavy a budovy a controller vie vyvolat save. Save game funkcia hotova(? needs to be tested) load to follow. Save and load zdanlivo funguju, testovane len povrchovo. Aktivacia kolonistov je delayed po nacitani zvysku levela kedze to nestihalo (colonist nebol plne nainicializovany). Forest a rock uz sa daju vytazit len 1 krat. Day counter po novom funguje as expected. Main menu to follow.
 
 (11.4) Hladanie noveho modelu pre kolonistov. Po cca 2 hodinach som nasiel model ktory fungoval reasonably well s animaciami, dalej som urobil jednoduchy animation blueprint pre colonistov, s dvoma animaciami 1. beh pre pohyb 2. statie a dychanie ako idle.
-
-
-
+(12.4) pridal som hlad, spanok a zdravie pre kolonistov. hlad a energia sa im casom uberaju, ked dojdu na kriticku hranicu (zatial 20%) idu domov (ak maju dom) tam sa najedia a vyspia pocas nejakych X sekund. taktiez domy uz naozaj maju kapacitu a obyvatelov, takze je potrebne mat vzdy pre vsetkych obyvatelov dost miesta.
 
 
 
