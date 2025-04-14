@@ -61,4 +61,9 @@ WEEK 7.4-13.4
 (12.4) pridal som hlad, spanok a zdravie pre kolonistov. hlad a energia sa im casom uberaju, ked dojdu na kriticku hranicu (zatial 20%) idu domov (ak maju dom) tam sa najedia a vyspia pocas nejakych X sekund. taktiez domy uz naozaj maju kapacitu a obyvatelov, takze je potrebne mat vzdy pre vsetkych obyvatelov dost miesta.
 
 
+WEEK 14.4 - 20.4
+
+(14.4) urobil som main menu s moznostami new game, load game a quit, load game nieje dostupne pokial neexistuje savefile. dalej som urobil loading screen. pred nacitavanim dalsieho levelu je artificial delay aby sa loading screen stihol zobrazit.
+
+
 
