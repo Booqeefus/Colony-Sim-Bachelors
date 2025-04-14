@@ -63,7 +63,7 @@ WEEK 7.4-13.4
 
 WEEK 14.4 - 20.4
 
-(14.4) urobil som main menu s moznostami new game, load game a quit, load game nieje dostupne pokial neexistuje savefile. dalej som urobil loading screen. pred nacitavanim dalsieho levelu je artificial delay aby sa loading screen stihol zobrazit. Pridal som monument, ktory sa spawnuje vedla summoning circle a potrebuje 200 metal ingots na opravu, ked je opraveny tak hrac vyhral. Zaroven bol do GameInstance->Unregister Colonist pridany check ci este ziju nejaky kolonisti a ak nie tak sa vypise sprava o tom ze rhac prehral.
+(14.4) urobil som main menu s moznostami new game, load game a quit, load game nieje dostupne pokial neexistuje savefile. dalej som urobil loading screen. pred nacitavanim dalsieho levelu je artificial delay aby sa loading screen stihol zobrazit. Pridal som monument, ktory sa spawnuje vedla summoning circle a potrebuje 200 metal ingots na opravu, ked je opraveny tak hrac vyhral. Zaroven bol do GameInstance->Unregister Colonist pridany check ci este ziju nejaky kolonisti a ak nie tak sa vypise sprava o tom ze rhac prehral. Okna budov, build menu a priority pri otvoreni zavru otvorene okna, cleaner feel, ziadne divne overlayovanie.
 
 
 
