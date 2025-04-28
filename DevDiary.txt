@@ -67,3 +67,20 @@ WEEK 14.4 - 20.4
 (15.4) Fixed a bug that caused the build menu not to open and when it did it broke every other window opening interaction. Also fixed a bug that caused the priority window showing toggle to use the build menu showing toggle. Also fixed a bug that caused progress bars to intercept click events, so clicking on buildings should be more responsive now.
 (16.4) Added a unique ID to all colonists. this id is given to new colonists (id = 0) and then incremented, when colonists are loaded the game next id is adjusted so that new colonist ids dont collide with loaded colonists. The same will be done for buildings as these are the prep steps to my approach to saving errand progress across savefiles. if all goes well colonists now wont go idle when the game is loaded but will resume the task they were doing when the game was saved (if any). UPDATE errands now save to file, loading to follow. Errands save their progress, type, progress speed and the ids of associated colonists and building. Errands now successfully load from savefiles. Had to add functions to game instance to get colonists by ids and building by id. Also had to add a "Force Errand" to colonists which sets the blackboard appropriately to the errand. Added "Crafting Rewards" attribute to errands, so that workshop buildings with active errands now yield the correct rewards. Same goes for crafting costs. Every Buiding type got a specific event that lets it bind its forced errand to its errand complete event. The workshop building also adjusts its crafting cost and crafting rewards during this.
 
+WEEK 21.4.- 27.4
+Finished First edition of overview part, drafted the sections for the remaining chapters.
+
+28.4.
+Received feedback from supervisor, time for bugfixing and patching
+Patches so far: 
+	- reduced clicking hitbox on monument and mushroom circle as it was deceptively large.
+	- fixed bug that caused nullptr exceptions when colonists were attempting to chose a new errand with only one active errand in the colony.
+	- fixed a bug that caused buildings to be clicked when clicking certain ui elements.
+	- fixed a bug that caused the text of the demolish window to start tweaking whenever the window was displayed
+	- fixed wierd feeling inertia when moving the player using wasd
+
+
+TO BE FIXED:
+	-spacebar opening and closing build menu (yeah i have no idea)
+
+
