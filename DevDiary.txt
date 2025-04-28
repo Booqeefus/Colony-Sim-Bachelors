@@ -78,9 +78,15 @@ Patches so far:
 	- fixed a bug that caused buildings to be clicked when clicking certain ui elements.
 	- fixed a bug that caused the text of the demolish window to start tweaking whenever the window was displayed
 	- fixed wierd feeling inertia when moving the player using wasd
+	- fixed a bug that caused colonists without an errand to not die when they should (nullptr exception)
 
 
-TO BE FIXED:
+
+TO DO:
 	-spacebar opening and closing build menu (yeah i have no idea)
-
+	-progress bars not visible on MAC
+	-fix great well popup window text clipping
+	-fix farm popup beig wierd
+	-fix workshop getting into a fucky state (no recipe selected + cancel + not actually making anything)
+	-add a HOW TO PLAY to main menu 
 
