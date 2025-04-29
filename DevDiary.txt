@@ -85,6 +85,8 @@ Patches so far:
 	- MAYBE fixed progress bar visibility issues on mac.
 	- mousing over a building now highlights it (blue arrow)
 	- added a how to play to the main menu
+	- removed more potential nullptr exceptions
+
 
 
 
