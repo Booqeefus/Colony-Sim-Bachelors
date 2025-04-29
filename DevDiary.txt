@@ -83,10 +83,15 @@ Patches so far:
 	- fixed building related resources not legible in popup.
 	- fixed spacebar and enter pushing buttons (disabled focus on buttons)
 	- MAYBE fixed progress bar visibility issues on mac.
+	- mousing over a building now highlights it (blue arrow)
+	- added a how to play to the main menu
+
+
+
 
 
 
 TO DO:
 	-fix workshop getting into a fucky state (no recipe selected + cancel + not actually making anything, no idea how to recreate this one)
-	-add a HOW TO PLAY to main menu 
+
 
