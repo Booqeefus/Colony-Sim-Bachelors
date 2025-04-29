@@ -81,13 +81,12 @@ Patches so far:
 	- fixed a bug that caused colonists without an errand to not die when they should (nullptr exception)
 	- fixed wierd clipping on greatwell text popup
 	- fixed building related resources not legible in popup.
+	- fixed spacebar and enter pushing buttons (disabled focus on buttons)
+	- MAYBE fixed progress bar visibility issues on mac.
 
 
 
 TO DO:
-	-spacebar opening and closing build menu (yeah i have no idea)
-	-progress bars not visible on MAC
-	
-	-fix workshop getting into a fucky state (no recipe selected + cancel + not actually making anything)
+	-fix workshop getting into a fucky state (no recipe selected + cancel + not actually making anything, no idea how to recreate this one)
 	-add a HOW TO PLAY to main menu 
 
