@@ -95,6 +95,8 @@ Fixed overlapping UI elements in Farm Popup WIndow.
 Fixed farm popup displaying wront text on auto replant button.
 Fixed workshop showing "cancel" despite the previous crafting order failing for any reason.
 
+Changed the Implementation part of my thesis to "Technical Approach", also trying a different approach in terms of writing, no longer going for a boring aah technical reference, just a more general look into how the game works internally.
+
 
 
 
